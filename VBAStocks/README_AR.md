@@ -1,4 +1,5 @@
 # VBA-challenge
+By. A. Rijpkema 10/16/2019
 
 In this folder you'll find the script used to generate screenshots VBAStock 2014, VBAStock 2015 and VBAStock 2016.
 The VBS script knows 2 macros that can be run. 
