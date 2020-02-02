@@ -6,4 +6,5 @@ One for the VBA Stock homework assignment
 One for the VBA Challenge assignment
 
 Please see README's in [VBAStocks](VBAStocks/README_AR.md) and [VBAChallenge](VBAChallenge/README_AR.md) folders for details.
-![VBAChallenge 2016.png](VBAStocks/VBAChallenge 2016.png)
+
+![VBAChallenge 2016.png](VBAStocks/VBAChallenge_2016.png)
