@@ -7,4 +7,4 @@ One for the VBA Challenge assignment
 
 Please see README's in [VBAStocks](VBAStocks/README_AR.md) and [VBAChallenge](VBAChallenge/README_AR.md) folders for details.
 
-![VBAChallenge 2016.png](VBAStocks/VBAChallenge_2016.png)
+![VBAChallenge_2016.png](VBAChallenge/VBAChallenge_2016.png)
